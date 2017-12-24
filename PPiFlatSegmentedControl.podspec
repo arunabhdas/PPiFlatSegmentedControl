@@ -4,9 +4,9 @@ Pod::Spec.new do |s|
   s.platform = :ios, '6.0'
   s.license = 'MIT'
   s.summary = 'Flat UISegmentedControl for flat designs.'
-  s.homepage = 'https://github.com/pepibumur/PPiFlatSegmentedControl'
-  s.author = { 'Pedro Piñera' => 'pepibumur@gmail.com' }
-  s.source = { :git => 'https://github.com/pepibumur/PPiFlatSegmentedControl.git', :tag => '1.4.0' }
+  s.homepage = 'https://github.com/arunabhdas/PPiFlatSegmentedControl'
+  s.author = { 'Pedro Piñera' => 'arunabhdas@gmail.com' }
+  s.source = { :git => 'https://github.com/arunabhdas/PPiFlatSegmentedControl.git', :tag => '1.4.0' }
 
   s.description = <<-DESC
 
